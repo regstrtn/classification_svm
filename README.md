@@ -1,8 +1,8 @@
 # Classification and Clustering in R
 
 #### Package contents:
-- `classify.r:` Given a movie, identify top 10 other most similar movies. Similar to the IMDB's "Movies you may like" feature. 
-- `kmeans.r:` Predict a movie's genre given other information about the movie. Uses kNN classifier. Performance not good.
+- `classify.r:` Build a predictive model for a bank's marketing department using SVM classifier. 
+- `kmeans.r:` Identify distinct patterns of electric power consumption
 
 ## Classification task - Predict successful conversion
 Build a predictive model for a bank's marketing department using SVM classifier. 
